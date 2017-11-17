@@ -9,6 +9,7 @@ Records, guidelines, and schedules of English learning for *Andrew*.
 - [Lesson 1](Lesson-1.html)
 - [Lesson 2](Lesson-2.html)
 - [Lesson 3](Lesson-3.html)
+- [Lesson 5](Lesson-5.html)
 
 ## Guidelines(一些学习指南)
 
