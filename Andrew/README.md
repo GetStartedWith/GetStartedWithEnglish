@@ -6,21 +6,21 @@ Records, guidelines, and schedules of English learning for *Andrew*.
 
 ## Lessons Records(课程记录)
 
-- [Lesson 1](Lesson-1.html)
-- [Lesson 2](Lesson-2.html)
-- [Lesson 3](Lesson-3.html)
-- [Lesson 5](Lesson-5.html)
+- [Lesson 1 (第一课)](Lesson-1.html)
+- [Lesson 2 (第二课)](Lesson-2.html)
+- [Lesson 3 (第三课)](Lesson-3.html)
+- [Lesson 5 (第五课)](Lesson-5.html)
 
 ## Guidelines(一些学习指南)
 
-- Grammar
+- Grammar (语法)
   - Basic Grammar
     - Linguistic of English
-- Spoken English
-- Pronunciation
+- Spoken English (口语)
+- Pronunciation (发音)
   - Phonetic Symbols
   - Common Words
-- Vocabulary
+- Vocabulary (词汇)
   - Vocabularies Common Used
   - Vocabularies of Specific Topics or Particular Domains
     - Countries and Cities
@@ -28,8 +28,8 @@ Records, guidelines, and schedules of English learning for *Andrew*.
     - Fruits and Vegetables
     - Geographic Words
     - Physical, Chemical, Biological Principles
-- Listening
-- Writing
+- Listening (听力)
+- Writing (写作)
 
 ## Materials Probably Needed(学习可能需要的材料-教材，设备等。)
 
